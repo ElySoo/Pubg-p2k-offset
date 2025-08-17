@@ -1,7 +1,7 @@
 constexpr uint64_t offset_SpoolBack = 0x23EE365;
 constexpr uint64_t XenuineDecrypt = 0xF30AC28;
-constexpr uint64_t UWorld = 0x10CE0C98;
-constexpr uint64_t GNames = 0x10F779C8;
+constexpr uint64_t UWorld = 0x10F779C8;
+constexpr uint64_t GNames = 0x10CE0C98;
 constexpr uint64_t GNamesPtr = 0x10;
 constexpr uint64_t GNamesAdd = 0x10;
 constexpr uint64_t ChunkSize = 0x40B4;
